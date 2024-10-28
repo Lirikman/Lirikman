@@ -1,5 +1,6 @@
-Hi there, I,m Dmirtiy Golubev
-
+<div id="header" align=center>
+  <h1>Hi there, I,m Dmirtiy Golubev</h1>
+</div>
 Образование:
 Хакасский технический институт, специальзация - экономист
 
