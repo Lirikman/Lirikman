@@ -8,7 +8,7 @@
 <h3>Дополнительное образование:</h3>
 <ul type="square">
   <li>Hexlet - Основы Python</li>
-  <li>PythonUnivessity - Курс "Python как профессия"</li>
+  <li>PythonUniversity - Курс "Python как профессия"</li>
   <li>Изучал программирование на Python по книге Марка Лутса - Изучаем Python</li>
 </ul>
 
