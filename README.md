@@ -68,6 +68,7 @@ Hexlet - GO-разработчик
 <h3>📫 Связь:</h3>
 <ul>
   <li>Telegram: @It_profi89</li>
+  <li><a href="https://t.me/It_profi89" target="_blank">Telegram</a></li>
   <li>Email: it-profi89@mail.ru</li>
   <li>VK: vk.ru/itprofi89</li>
 </ul>
