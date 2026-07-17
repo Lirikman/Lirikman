@@ -34,7 +34,7 @@ Hexlet - GO-разработчик
 
 </ul>
 
-<h3>О себе:</h3>
+<h3>💬 О себе:</h3>
 <p>Работаю региональным менеджеров в ПАО "Ак Барс банк" города Красноярск</p>
 <p>Предыдущее место работы - АО "РМ Рейл Абаканвагонмаш", ведущий инженер-программист </p>
 <p>Постоянно слежу за новостями мира информационных технологий - Habr, 3DNews, iXBT</p>
@@ -47,17 +47,21 @@ Hexlet - GO-разработчик
   <li>Знание основ Linux</li>
   <li>Знание основ языка запросов SQL</li>
   <li>Знание основ языка программирования Python:</li>
-    ** Flask
-    ** Django 
-    ** HTML
-    ** CSS
-    ** Aiogram
+    <ul>
+       <li>Flask</li>
+       <li>Django</li>
+       <li>HTML</li>
+       <li>CSS</li>
+       <li>Aiogram</li>
+    </ul>
   <li>Знание основ языка программирования Golang:</li>
-    ** Gin
-    ** Sqlc
-    ** Rest-API
-    ** Testify
-    ** Docker
+    <ul>
+      <li>Gin</li>
+      <li>Sqlc</li>
+      <li>Rest-API</li>
+      <li>Testify</li>
+      <li>Docker</li>
+    </ul>
 </ul>
 
 
